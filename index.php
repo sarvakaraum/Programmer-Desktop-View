@@ -56,7 +56,7 @@
 
 <!-- Image and text -->
 <nav class="navbar navbar-light" style="padding-bottom: 20px; padding-right: 800px">
-    <a class="navbar-brand" href="#" ><img alt="" class="d-inline-block align-top" height="30" src="assets/img/favicon.png" width="30">&nbsp;Sarvakaraum</a>
+    <a class="navbar-brand" href="http://www.sarvakaraum.com/" ><img alt="" class="d-inline-block align-top" height="30" src="assets/img/favicon.png" width="30">&nbsp;Sarvakaraum</a>
 </nav>
 <!-- ======= IDE Section ======= -->
 <section>
